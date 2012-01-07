@@ -27,7 +27,7 @@ namespace GNN4PortfolioOptimizationClass
            
 
          xlWorkBook.SaveAs("C:\\newcat2", Microsoft.Office.Interop.Excel.XlFileFormat.xlOpenXMLWorkbookMacroEnabled);
-
+         int test = 0;
          xlWorkBook.Close(true, misValue, misValue);
          xlApp.Quit();
 
