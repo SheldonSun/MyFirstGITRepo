@@ -1,0 +1,18 @@
+﻿<Window x:Class="GNN4POWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="432" Width="700">
+    <Grid>
+        <Button Content="Calculate" Height="23" HorizontalAlignment="Left" Margin="119,268,0,0" Name="btnCal1" VerticalAlignment="Top" Width="75" Click="btnCal1_Click" />
+        <TextBox Height="29" HorizontalAlignment="Left" Margin="119,38,0,0" Name="txtk" VerticalAlignment="Top" Width="235" />
+        <TextBox Height="29" HorizontalAlignment="Left" Margin="119,85,0,0" Name="txtR" VerticalAlignment="Top" Width="235" />
+        <TextBox Height="29" HorizontalAlignment="Left" Margin="119,129,0,0" Name="txtT" VerticalAlignment="Top" Width="235" />
+        <TextBox Height="29" HorizontalAlignment="Left" Margin="119,176,0,0" Name="txtw" VerticalAlignment="Top" Width="235" />
+        <TextBox Height="29" HorizontalAlignment="Left" Margin="119,221,0,0" Name="txta" VerticalAlignment="Top" Width="235" />
+        <Label Content="k" Height="28" HorizontalAlignment="Left" Margin="97,39,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="R" Height="28" HorizontalAlignment="Left" Margin="97,86,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="T" Height="28" HorizontalAlignment="Left" Margin="97,129,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="w" Height="28" HorizontalAlignment="Left" Margin="97,174,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="a" Height="28" HorizontalAlignment="Left" Margin="97,222,0,0" Name="label5" VerticalAlignment="Top" />
+    </Grid>
+</Window>
