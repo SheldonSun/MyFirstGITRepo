@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="432" Width="700">
     <Grid>
-        <Button Content="Calculate" Height="23" HorizontalAlignment="Left" Margin="119,268,0,0" Name="btnCal1" VerticalAlignment="Top" Width="75" Click="btnCal1_Click" />
+        <Button Content="Calculate 1" Height="23" HorizontalAlignment="Left" Margin="119,268,0,0" Name="btnCal1" VerticalAlignment="Top" Width="75" Click="btnCal1_Click" />
         <TextBox Height="29" HorizontalAlignment="Left" Margin="119,38,0,0" Name="txtk" VerticalAlignment="Top" Width="235" />
         <TextBox Height="29" HorizontalAlignment="Left" Margin="119,85,0,0" Name="txtR" VerticalAlignment="Top" Width="235" />
         <TextBox Height="29" HorizontalAlignment="Left" Margin="119,129,0,0" Name="txtT" VerticalAlignment="Top" Width="235" />
