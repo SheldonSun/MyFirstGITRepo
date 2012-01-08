@@ -9,7 +9,7 @@
         <TextBox Height="29" HorizontalAlignment="Left" Margin="119,129,0,0" Name="txtT" VerticalAlignment="Top" Width="235" />
         <TextBox Height="29" HorizontalAlignment="Left" Margin="119,176,0,0" Name="txtw" VerticalAlignment="Top" Width="235" />
         <TextBox Height="29" HorizontalAlignment="Left" Margin="119,221,0,0" Name="txta" VerticalAlignment="Top" Width="235" />
-        <Label Content="k1" Height="28" HorizontalAlignment="Left" Margin="97,39,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="k12" Height="28" HorizontalAlignment="Left" Margin="97,39,0,0" Name="label1" VerticalAlignment="Top" />
         <Label Content="R" Height="28" HorizontalAlignment="Left" Margin="97,86,0,0" Name="label2" VerticalAlignment="Top" />
         <Label Content="T" Height="28" HorizontalAlignment="Left" Margin="97,129,0,0" Name="label3" VerticalAlignment="Top" />
         <Label Content="w" Height="28" HorizontalAlignment="Left" Margin="97,174,0,0" Name="label4" VerticalAlignment="Top" />
